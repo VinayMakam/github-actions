@@ -1,0 +1,95 @@
+{
+  "uid" : "44cba5b13b5e49bd",
+  "name" : "test_division[2-1-2]",
+  "fullName" : "tests.test_calculator.TestCalculator#test_division",
+  "historyId" : "857e2103a0f8ec19bcb47bf2e5f56e0a",
+  "time" : {
+    "start" : 1640107158438,
+    "stop" : 1640107158438,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestCalculator",
+    "time" : {
+      "start" : 1640107158375,
+      "stop" : 1640107158375,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestCalculator::0",
+    "time" : {
+      "start" : 1640107158442,
+      "stop" : 1640107158442,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculator"
+  }, {
+    "name" : "host",
+    "value" : "fv-az210-783"
+  }, {
+    "name" : "thread",
+    "value" : "2717-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect",
+    "value" : "2"
+  }, {
+    "name" : "first",
+    "value" : "2"
+  }, {
+    "name" : "second",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44cba5b13b5e49bd.json",
+  "parameterValues" : [ "2", "2", "1" ]
+}
