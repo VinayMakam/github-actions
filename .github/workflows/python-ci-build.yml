@@ -5,8 +5,7 @@ name: Continuous Integration - Python application
 
 on:
   push:
-    branches:
-    - master
+    branches: [ main ]
 
 jobs:
   build:
